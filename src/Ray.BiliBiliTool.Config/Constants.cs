@@ -6,7 +6,7 @@ namespace Ray.BiliBiliTool.Config
         /// <summary>
         /// 每天的最大投币数，优先级最高，默认每天最多投5个币（包含已投过的数量）
         /// </summary>
-        public static int MaxNumberOfDonateCoins = 5;
+        public static int MaxNumberOfDonateCoins = 0;
 
         /// <summary>
         /// 每天可获取的满额经验值
